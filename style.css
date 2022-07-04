@@ -28,7 +28,7 @@ section {
 .button-color {
     text-decoration: none;
     background-color: red;
-    padding: 20px;
+    padding: 5px;
     border-radius: 10px;
     background-image: -o-linear-gradient(red, tomato);
     color: beige;
@@ -38,4 +38,10 @@ section {
 .banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
